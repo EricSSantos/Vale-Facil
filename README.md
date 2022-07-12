@@ -6,9 +6,7 @@
 
 
 <div>
-  <h2 lign="center">
-    <img src=https://cdn.discordapp.com/attachments/996183945358102580/996503115496947742/icone.png>
-  </h2>
+    <img lign="center" src=https://cdn.discordapp.com/attachments/996183945358102580/996503115496947742/icone.png>
   <h3>
     <p>• O que é Vale Fácil?</p>
   </h3>
