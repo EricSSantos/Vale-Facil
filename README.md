@@ -25,9 +25,10 @@
   <h5>
     <p>
       O Posto fácil é um sistema de gestão para postos que possibilita consultar diversos relatórios, como: venda de combustíveis e produtos, estoque de combustível e contas a pagar cadastradas.
+      <br>
       O Posto fácil também conta com um ponto de venda que possibilita realizar a emissão de vales pontos, brindes e fidalidade.
       <br>
-        <br>
+      <br>
     </p>
     <a href="https://www.linx.com.br/posto-facil/"><p>• Sobre o Posto fácil</p>
     <a href="https://youtu.be/dIkYSVDhDxo"><p>• Posto fácil, o software do posto inteligente</p>
