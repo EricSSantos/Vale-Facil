@@ -26,8 +26,10 @@
     <p>
       O Postofácil é um sistema de gestão para postos que possibilita consultar diversos relatórios, como: venda de combustíveis e produtos, estoque de combustível e contas a pagar cadastradas.
       <br>
+        <br>
     </p>
-    <a href="https://youtu.be/dIkYSVDhDxo"><p>• Postofácil, o software do posto inteligente</p>
+    <a href="https://www.linx.com.br/posto-facil/"><p>• Sobre o Posto fácil</p>
+    <a href="https://youtu.be/dIkYSVDhDxo"><p>• Posto fácil, o software do posto inteligente</p>
     <a href="https://youtu.be/ebC5dQEw0rE"><p>• Como configuro Vale Pontos no Caixa?</p>
   </h5>
 </div>
