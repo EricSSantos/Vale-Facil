@@ -14,8 +14,9 @@
   
   <h5>
     <p>
-      O Vale fácil é um sistema de gestão de vaçes gerados pelo Posto Fácil!
+      O Vale fácil é um sistema de gestão de vales gerados pelo Posto Fácil!
       <br>
+        <br>
       Atualmente o sistema Posto Fácil permite ao usuário relizar o cadastro vales (Vale Pontos, Brinde e Lavegem), com o intuíto de fidelizar os consumidores finais.
       Porém ao mesmo tempo, não é possível realizar o controle dos potos que foram gerados.
       <br>
