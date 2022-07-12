@@ -13,7 +13,7 @@
 </div>
 
 <div>
-  <h1>
+  <h3>
     <p>O que é Posto Fácil</p>
   </h1>
   <h5>
