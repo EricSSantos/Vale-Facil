@@ -25,6 +25,7 @@
   <h5>
     <p>
       O Postofácil é um sistema de gestão diferenciado para que os postos embandeirados se tornem mais rentáveis, competitivos e inovadores. A tecnologia certa para ganhar velocidade nas tomadas de decisões e controlar toda a operação do seu posto ou sua rede.
+      <br>
     </p>
     <a href="https://youtu.be/dIkYSVDhDxo"><p>• Postofácil, o software do posto inteligente</p>
     <a href="https://youtu.be/ebC5dQEw0rE"><p>• Como configuro Vale Pontos no Caixa?</p>
