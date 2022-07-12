@@ -31,6 +31,8 @@
         </h5>
       <br>
     </p>
+   </h5>
+   <h5>
     <a href="https://www.linx.com.br/posto-facil/"><p>• Sobre o Posto fácil</p>
     <a href="https://youtu.be/dIkYSVDhDxo"><p>• Posto fácil, o software do posto inteligente</p>
     <a href="https://youtu.be/ebC5dQEw0rE"><p>• Como configuro Vale Pontos no Caixa?</p>
