@@ -7,7 +7,7 @@
 
 <div>
   <h3>
-    <p>• O que é Vale Fácil?</p>
+    <p>• O que é Vale Fácil 🤔?</p>
   </h3>
   <h5>
     <p>
@@ -20,7 +20,7 @@
 
 <div>
   <h3>
-    <p>• O que é Posto Fácil?</p>
+    <p>• O que é Posto Fácil 🤔?</p>
   </h3>
   <h5>
     <p>
