@@ -1,4 +1,4 @@
 <div align="center">
-  <h2>Vale Fácil</h2>
-  <h2>Gerenciamento de pontos</h2>
+  <h1>Vale Fácil</h1>
+  <p>Gerenciamento de pontos</p>
 </div>
