@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
     Vale Fácil
-    <p>Gerenciamento de pontos</p>
+    <h3>Gerenciamento de pontos</h3>
   </h1>
 </div>
