@@ -21,8 +21,10 @@
 <div>
   <h3>
     <p>• O que é Posto Fácil?</p>
-    <a href="https://share.linx.com.br/pages/viewpage.action?pageId=17178673" target="_blank"><img src="https://share.linx.com.br/download/thumbnails/17178673/LogoPostFacil_Preferencial_H_JPG_Pq%20%281%29.png?version=1&modificationDate=1567770463366&api=v2" target="_blank"></a
   </h3>
+  <h5>
+      <a href="https://share.linx.com.br/pages/viewpage.action?pageId=17178673" target="_blank"><img src="https://share.linx.com.br/download/thumbnails/17178673/LogoPostFacil_Preferencial_H_JPG_Pq%20%281%29.png?version=1&modificationDate=1567770463366&api=v2" target="_blank"></a
+        </h5>
   <h5>
     <p>
       O Posto fácil é um sistema de gestão para postos que possibilita consultar diversos relatórios, como: venda de combustíveis e produtos, estoque de combustível e contas a pagar cadastradas, além de permitir realizar vendas vinculadas a vales pontos, brindes e fidalidade.
