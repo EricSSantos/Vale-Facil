@@ -24,7 +24,7 @@
   </h3>
   <h5>
     <p>
-      O Postofácil é um sistema de gestão para postos que possibilita consultardiversos relatórios, como: venda de combustíveis e produtos, estoque de combustível e contas a pagar cadastradas.
+      O Postofácil é um sistema de gestão para postos que possibilita consultar diversos relatórios, como: venda de combustíveis e produtos, estoque de combustível e contas a pagar cadastradas.
       <br>
     </p>
     <a href="https://youtu.be/dIkYSVDhDxo"><p>• Postofácil, o software do posto inteligente</p>
