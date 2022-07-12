@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    <p>Vale Fácil</p>
+    <p>Vale Fácil <img src=https://cdn.discordapp.com/attachments/996183945358102580/996503115496947742/icone.png></p>
   </h1>
 </div>
 
