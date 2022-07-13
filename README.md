@@ -1,10 +1,10 @@
 <div>
   <h1>   
-    <p>Vale Fácil</p>
+    <p><img src="https://cdn.discordapp.com/attachments/996183945358102580/996657278965010553/icon.png"></p>
   </h1>
 </div>
 
-<p align="center"><img src="https://cdn.discordapp.com/attachments/996183945358102580/996657278965010553/icon.png"></p>
+
 
 <div>  
   <h3>
