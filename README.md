@@ -1,7 +1,7 @@
 <div>
-  <h5>   
+  <h2>   
     <img src="https://cdn.discordapp.com/attachments/996183945358102580/996657956055679116/icon.png">
-  </h5>
+  </h2>
 </div>
 
 
