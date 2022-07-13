@@ -4,7 +4,7 @@
   </h1>
 </div>
 
-<img align="center" height="590em" src="https://cdn.discordapp.com/attachments/996183945358102580/996503115496947742/icone.png"/>
+<img align="center" height="59px" src="https://cdn.discordapp.com/attachments/996183945358102580/996503115496947742/icone.png"/>
 
 <div>  
   <h3>
