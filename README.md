@@ -1,8 +1,8 @@
-<div align="center">
+
   <h1>
     <p>Vale Fácil</p>
   </h1>
-</div>
+
 
 <p align="center"> <img src=https://cdn.discordapp.com/attachments/996183945358102580/996503115496947742/icone.png> </p>
 
