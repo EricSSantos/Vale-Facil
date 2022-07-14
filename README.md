@@ -18,6 +18,7 @@
       <br>       
       O Posto Fácil posseuí um programa de fidelidade que permite relizar a emissão vales (Vale Ponto, Brinde e Lavegem) com o intuíto de atrair consumidores ao estabelecimento.
       <br>
+      <br>
       O grande problema neste programa de fidelidade é que o Posto Fácil não permite realizar a gestão dos vales que foram gerados, deixando o cliente no escuro e dependente apenas de guias nãos fiscais que são impressas no momento da emissão de um vale.
       <br>
       Tendo isso mente, o vale fácil foi desenvolvimento para possibilitar o usuário manter o controle dos postos que foram gerados para seus consumidores finais.
