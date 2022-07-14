@@ -19,7 +19,7 @@
       <br><br>
       O grande problema neste programa de fidelidade é que o Posto Fácil não permite realizar a gestão dos vales que foram gerados, deixando o cliente no escuro e dependente de guias nãos fiscais que são impressas no momento da emissão de um vale.
       <br><br>
-      Tendo isso mente, o vale fácil foi desenvolvimento para possibilitar o usuário manter o controle dos postos que foram gerados para seus consumidores finais.
+      Tendo isso mente o Vale Fácil está sendo desenvolvido para solucuinar este problema, possibilitando o usuário manter o controle dos postos que estão sendo gerados.
     </p>
   </h6>
 </div>
