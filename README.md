@@ -13,7 +13,7 @@
   
   <h6>
     <p>
-      O Vale Fácil é um software para gestão de vales gerados pelo Posto Fácil!
+      O Vale Fácil é um software para gestão de vales gerados!
       <br><br>       
       O Posto Fácil possui um programa de fidelidade que permite relizar a emissão vales (Vale Ponto, Brinde e Lavegem) com o intuíto de atrair consumidores ao estabelecimento.
       <br><br>
