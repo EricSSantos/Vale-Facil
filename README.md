@@ -4,8 +4,6 @@
   </h4>
 </div>
 
-<br><br>
-
 <div>  
   <h3>
     <p>• O que é Vale Fácil?</p>
