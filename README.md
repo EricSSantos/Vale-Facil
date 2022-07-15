@@ -31,7 +31,7 @@
       <br><br>
       O Posto Fácil também possui um programa de fidelidade que permite realizar a emissão de vales (Vale Ponto, Brinde e Lavegem) com o intuíto de atrair consumidores ao estabelecimento.
       <br>
-      O grande problema deste programa de fidelidade é que o Posto Fácil não permite realizar a gestão dos vales gerados, deixando o cliente no "escuro" e dependente de guias nãos fiscais que são impressas no momento da emissão de um vale.
+      O grande problema deste programa de fidelidade é que o Posto Fácil não permite realizar a gestão dos vales gerados, deixando o cliente totalmente dependente de guias nãos fiscais que são impressas no momento da emissão de um vale.
     </p>
       <a href="https://youtu.be/dIkYSVDhDxo"><p>• Posto Fácil, o software do posto inteligente</p>
       <a href="https://share.linx.com.br/pages/viewpage.action?pageId=27131284"><p>• Posto Fácil, Emissão de Vale Pontos</p>
