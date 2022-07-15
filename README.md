@@ -30,7 +30,7 @@
       Posto Fácil é um software de vendas e gestão voltado para o segmento de postos que possibilita realizar a consulta de diversos relatórios, como venda de combustíveis e produtos, estoque de combustível, contas a pagar cadastradas, entre outros.
       <br><br>
       O Posto Fácil também possui um programa de fidelidade que permite realizar a emissão de vales (Vale Ponto, Brinde e Lavegem) com o intuíto de atrair consumidores ao estabelecimento.
-      <br>
+      <br><br>
       O grande problema deste programa de fidelidade é que o Posto Fácil não permite realizar a gestão dos vales gerados, deixando o cliente totalmente dependente de guias nãos fiscais que são impressas no momento da emissão de um vale.
     </p>
       <a href="https://youtu.be/dIkYSVDhDxo"><p>• Posto Fácil, o software do posto inteligente</p>
