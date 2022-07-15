@@ -13,7 +13,7 @@
   
   <h6>
     <p>
-      Vale Fácil é um software para gestão de vales, possibilitando o usuário manter o controle dos pontos que são gerados no software Posto Fácil.
+      Vale Fácil é um software para gestão que permite o usuário manter o controle dos vales que são gerados no software Posto Fácil.
     </p>
   </h6>
 </div>
