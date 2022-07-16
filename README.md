@@ -14,7 +14,7 @@
 
 <div>  
   <h3>
-    <p>• O que é Vale Fácil?</p>
+    <p>O que é Vale Fácil?</p>
   </h3>
   
   <h6>
@@ -28,7 +28,7 @@
 
 <div>
   <h3>
-    <p>• O que é Posto Fácil?</p>
+    <p>O que é Posto Fácil?</p>
   </h3>
   
   <h6>
@@ -42,5 +42,19 @@
       <br>
       <a href="https://youtu.be/dIkYSVDhDxo"><p>• Posto Fácil, o software do posto inteligente</p>
       <a href="https://share.linx.com.br/pages/viewpage.action?pageId=27131284"><p>• Posto Fácil, Emissão de Vale Pontos</p>
+  </h6>
+</div>
+   
+##
+    
+<div>  
+  <h3>
+    <p>Tenologias</p>
+  </h3>
+  
+  <h6>
+    <p>
+      
+    </p>
   </h6>
 </div>
