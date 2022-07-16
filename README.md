@@ -15,7 +15,7 @@
 
 ### O que é Vale Fácil?
 
-###### Vale Fácil é um software para gestão de vales/pontos, que permite o usuário manter o controle dos vales que são gerados no software Posto Fácil.
+###### Vale Fácil é um software para gestão de vales e pontos, que permite o usuário manter o controle dos vales que são gerados no software Posto Fácil.
 
 ### O que é Posto Fácil?
 
