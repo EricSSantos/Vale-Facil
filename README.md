@@ -40,9 +40,9 @@
 
 ##
    
-### Tenologias   
+### Tecnologias   
       
-###### As seguintes tenologias foram utilizadas na construção deste projeto:
+###### As seguintes tecnologias foram utilizadas na construção deste projeto:
     
 - ###### [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/)
 - ###### [Firebird](https://www.firebirdsql.org/en/documentation/)
