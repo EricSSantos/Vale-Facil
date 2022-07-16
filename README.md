@@ -28,13 +28,6 @@
 - ###### [Posto Fácil, o software do posto inteligente](https://youtu.be/dIkYSVDhDxo)
 - ###### [Posto Fácil, Emissão de Vale Pontos](https://share.linx.com.br/pages/viewpage.action?pageId=27131284)
    
-   
-##
-
-### Funcionalidades
-
-- ######
-   
 ##   
    
 ### Tenologias   
