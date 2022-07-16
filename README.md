@@ -20,10 +20,23 @@
 <br>
 <div align="center">
   <h4>   
+    <img src="https://cdn.discordapp.com/attachments/996183945358102580/997975112605257788/LOGIN.png">
+  </h4>
+</div>
+
+<br>
+<div align="center">
+  <h4>   
+    <img src="https://cdn.discordapp.com/attachments/996183945358102580/997975112278093844/HOME.png">
+  </h4>
+</div>
+
+<br>
+<div align="center">
+  <h4>   
     <img src="https://cdn.discordapp.com/attachments/996183945358102580/997975112961761351/VALES.png">
   </h4>
 </div>
-<br>
 
 ### O que é Posto Fácil?
 
