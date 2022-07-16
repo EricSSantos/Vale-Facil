@@ -8,7 +8,7 @@
 
 <div align="center">
   <h4>   
-    <img src="https://cdn.discordapp.com/attachments/996183945358102580/997536211096850492/icon.png">
+    <img src="https://cdn.discordapp.com/attachments/996183945358102580/997881674333437982/68747470733a2f2f692e696d6775722e636f6d2f545a6a4259634c2e706e67-Recuperado.png">
   </h4>
 </div>
 
