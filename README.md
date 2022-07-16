@@ -63,7 +63,7 @@
   </h6>
 </div>
  
-###### - [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/)
+######- [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/)
 - [Firebird](https://www.firebirdsql.org/en/documentation/)
 - [Flamerobin](http://www.flamerobin.org)
       
