@@ -17,16 +17,16 @@
 
 ###### Vale Fácil é um software para gestão de vales e pontos, que permite o usuário manter o controle dos vales que são gerados no ERP Posto Fácil.
 
-<br>
 <div align="center">
   <h4>   
     <img src="https://cdn.discordapp.com/attachments/996183945358102580/997975112605257788/LOGIN.png">
+    <img src="https://cdn.discordapp.com/attachments/996183945358102580/997975112278093844/HOME.png">
   </h4>
 </div>
 
 <div align="center">
   <h4>   
-    <img src="https://cdn.discordapp.com/attachments/996183945358102580/997975112278093844/HOME.png">
+    
   </h4>
 </div>
 
