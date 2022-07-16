@@ -12,19 +12,14 @@
   </h4>
 </div>
 
-<div>  
-  <h3>
-    <p>O que é Vale Fácil?</p>
-  </h3>
-  
-  <h6>
-    <p>
-      Vale Fácil é um software para gestão que permite o usuário manter o controle dos vales que são gerados no software Posto Fácil.
-    </p>
-  </h6>
-</div>
+
+### O que é Posto Fácil?
+
+###### Vale Fácil é um software para gestão que permite o usuário manter o controle dos vales que são gerados no software Posto Fácil.
+
 
 ##
+
 
 ### O que é Posto Fácil?
 
@@ -37,8 +32,10 @@
 - ###### [Posto Fácil, o software do posto inteligente](https://youtu.be/dIkYSVDhDxo)
 - ###### [Posto Fácil, Emissão de Vale Pontos](https://share.linx.com.br/pages/viewpage.action?pageId=27131284)
    
+   
 ##
-    
+   
+   
 ### Tenologias   
       
 ###### As seguintes ferramentas foram utilizadas na construção deste projeto:
