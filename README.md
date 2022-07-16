@@ -55,6 +55,10 @@
   <h6>
     <p>
       As seguintes ferramentas foram usadas na construção do projeto:
+      <br>
+      <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/"><p>• C#</p>
+      <a href="https://www.firebirdsql.org/en/documentation/"><p>• Firebird</p>
+      <a href="http://www.flamerobin.org/"><p>• Flamerobin</p>
     </p>
   </h6>
 </div>
