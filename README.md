@@ -50,7 +50,7 @@
 
  ### Tenologias   
       
- ###### As seguintes ferramentas foram usadas na construção do projeto:
+ ###### As seguintes ferramentas foram utilizadas na construção deste projeto:
     
 - [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/)
 - [Firebird](https://www.firebirdsql.org/en/documentation/)
