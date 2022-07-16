@@ -17,14 +17,6 @@
 
 ###### Vale Fácil é um software para gestão de vales e pontos, que permite o usuário manter o controle dos vales que são gerados no ERP Posto Fácil.
 
-<div align="center">
-  <h4>   
-    <img src="https://cdn.discordapp.com/attachments/996183945358102580/997975112605257788/LOGIN.png">
-    <img src="https://cdn.discordapp.com/attachments/996183945358102580/997975112278093844/HOME.png">
-    <img src="https://cdn.discordapp.com/attachments/996183945358102580/997975112961761351/VALES.png">
-  </h4>
-</div>
-
 ### O que é Posto Fácil?
 
 ###### Posto Fácil é um software de gestão voltado para o segmento de postos.
@@ -37,6 +29,16 @@
 - ###### [Posto Fácil, Emissão de Vale Pontos](https://share.linx.com.br/pages/viewpage.action?pageId=27131284)
    
 ##   
+   
+<div align="center">
+  <h4>   
+    <img src="https://cdn.discordapp.com/attachments/996183945358102580/997975112605257788/LOGIN.png">
+    <img src="https://cdn.discordapp.com/attachments/996183945358102580/997975112278093844/HOME.png">
+    <img src="https://cdn.discordapp.com/attachments/996183945358102580/997975112961761351/VALES.png">
+  </h4>
+</div>
+
+##
    
 ### Tenologias   
       
