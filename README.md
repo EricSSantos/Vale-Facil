@@ -35,7 +35,7 @@
 ###### O grande problema deste programa de fidelidade é que o Posto Fácil não permite realizar a gestão dos vales gerados, deixando o cliente totalmente dependente de guias nãos fiscais que são impressas no momento da emissão de um vale.
 
 - [Posto Fácil, o software do posto inteligente](https://youtu.be/dIkYSVDhDxo)
--
+- ###### [Posto Fácil, Emissão de Vale Pontos](https://share.linx.com.br/pages/viewpage.action?pageId=27131284)
    
 ##
     
