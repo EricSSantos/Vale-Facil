@@ -39,6 +39,8 @@
 
 - ######
    
+##   
+   
 ### Tenologias   
       
 ###### As seguintes ferramentas foram utilizadas na construção deste projeto:
