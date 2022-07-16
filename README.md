@@ -54,7 +54,7 @@
   
   <h6>
     <p>
-      
+      As seguintes ferramentas foram usadas na construção do projeto:
     </p>
   </h6>
 </div>
