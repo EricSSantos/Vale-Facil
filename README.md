@@ -32,7 +32,7 @@
    
 <div align="center">
   <h4>   
-    <a><img width="1200" src="https://user-images.githubusercontent.com/106814385/179417246-aa42b081-4a7e-4d7e-af65-03668e0f5b52.gif" style="border-radius:10%"></a>
+    <a><img width="1200" src="https://user-images.githubusercontent.com/106814385/179417246-aa42b081-4a7e-4d7e-af65-03668e0f5b52.gif"</a>
   </h4>
 </div>
 
