@@ -35,6 +35,8 @@
     <img src="https://cdn.discordapp.com/attachments/996183945358102580/997975112605257788/LOGIN.png">
     <img src="https://cdn.discordapp.com/attachments/996183945358102580/997975112278093844/HOME.png">
     <img src="https://cdn.discordapp.com/attachments/996183945358102580/997975112961761351/VALES.png">
+    <img src="https://photos.app.goo.gl/1Q7bibuuufAExNWB8">
+    
   </h4>
 </div>
 
