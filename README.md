@@ -32,11 +32,10 @@
    
 <div align="center">
   <h4>   
-    <img src="https://cdn.discordapp.com/attachments/996183945358102580/997975112605257788/LOGIN.png">
-    <img src="https://cdn.discordapp.com/attachments/996183945358102580/997975112278093844/HOME.png">
+    <img src="">
+    <img src="https://user-images.githubusercontent.com/106814385/179417246-aa42b081-4a7e-4d7e-af65-03668e0f5b52.gif">
     <img src="https://cdn.discordapp.com/attachments/996183945358102580/997975112961761351/VALES.png">
-    <img src="https://photos.app.goo.gl/1Q7bibuuufAExNWB8">
-    
+
   </h4>
 </div>
 
