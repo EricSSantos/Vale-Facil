@@ -34,8 +34,9 @@
 
 - ###### Login - Algumas funções estarão disponíveis apenas para usuários administradores, sendo assim o sistema deverá validar o usuário e senha do cliente.
 <div align="center">
-  <h4>   
-    <img width="800" src="https://user-images.githubusercontent.com/106814385/179897881-ab7002cb-b868-498f-af25-73dcf8ae08dc.gif">
+  <h4>
+    <img src="https://user-images.githubusercontent.com/106814385/179897881-ab7002cb-b868-498f-af25-73dcf8ae08dc.gif">
+    <img src="https://user-images.githubusercontent.com/106814385/179898224-0a95471e-3332-463c-9c2c-6cf540de5d81.gif">
   </h4>
 </div>
 
