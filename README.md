@@ -42,7 +42,7 @@
 
 <br>
 
-###### Vales (Vales Gerados)
+<h6><p>Vales (Vales Gerados)</p></h6>
 ###### Tela "principal" do sistema, que irá permitir o usuário consultar todos os vales que foram gerados.
 <div align="center">
   <h4>
