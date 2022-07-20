@@ -39,6 +39,13 @@
   </h4>
 </div>
 
+- ###### Vales (Vales Gerados) - Tela principal do sistema, que permite o usuário consultar todos os vales que foram gerados.
+<div align="center">
+  <h4>
+    <img width="980x" src="https://user-images.githubusercontent.com/106814385/179900896-31419a49-8cf7-4426-9964-412c542266da.gif">
+  </h4>
+</div>
+
 ##
    
 ### Tecnologias   
