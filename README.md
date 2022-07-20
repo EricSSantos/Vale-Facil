@@ -42,8 +42,10 @@
 
 <br>
 
-<h6><p>Vales (Vales Gerados)</p></h6>
-###### Tela "principal" do sistema, que irá permitir o usuário consultar todos os vales que foram gerados.
+<h6>
+  <p>Vales (Vales Gerados)</p>
+  <p>Tela "principal" do sistema, que irá permitir o usuário consultar todos os vales que foram gerados.</p>
+</h6>
 <div align="center">
   <h4>
     <img width="980x" src="https://user-images.githubusercontent.com/106814385/179900896-31419a49-8cf7-4426-9964-412c542266da.gif">
