@@ -37,6 +37,8 @@
     <img width="1280px" src="https://user-images.githubusercontent.com/106814385/179900896-31419a49-8cf7-4426-9964-412c542266da.gif">
 </div>
    
+##
+   
 ### Tecnologias   
       
 ###### As seguintes tecnologias foram utilizadas na construção deste projeto:
