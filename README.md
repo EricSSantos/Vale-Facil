@@ -39,6 +39,8 @@
   </h4>
 </div>
 
+<br>
+
 - ###### Vales (Vales Gerados) - Tela principal do sistema, que permite o usuário consultar todos os vales que foram gerados.
 <div align="center">
   <h4>
