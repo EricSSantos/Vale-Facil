@@ -30,7 +30,7 @@
    
 ##   
    
-### Funcionalidades
+## Funcionalidades
 
 ###### Login
 ###### Algumas funções estarão disponíveis apenas para usuários administradores, sendo assim o sistema deverá validar o usuário e senha do cliente.
