@@ -32,7 +32,7 @@
    
 ### Funcionalidades
 
-- ###### Acesso via login - Algumas funções estarão disponíveis apenas para usuários administradores, sendo assim o sistema deverá validar o usuário e senha do cliente.
+- ###### Login - Algumas funções estarão disponíveis apenas para usuários administradores, sendo assim o sistema deverá validar o usuário e senha do cliente.
 <div align="center">
   <h4>   
     <img width="800" src="https://user-images.githubusercontent.com/106814385/179897881-ab7002cb-b868-498f-af25-73dcf8ae08dc.gif">
