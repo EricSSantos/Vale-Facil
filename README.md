@@ -35,27 +35,8 @@
 ###### Login
 ###### Algumas funções estarão disponíveis apenas para usuários administradores, sendo assim o sistema deverá validar o usuário e senha do cliente.
 <div align="center">
-  <h4>
     <img width="1280px" src="https://user-images.githubusercontent.com/106814385/179900896-31419a49-8cf7-4426-9964-412c542266da.gif">
-  </h4>
 </div>
-
-<br>
-
-<h6>
-  <p>
-    Vales (Vales Gerados)
-      <br>
-    Tela "principal" do sistema, que irá permitir o usuário consultar todos os vales que foram gerados.
-  </p>
-</h6>
-<div align="center">
-  <h4>
-    <img width="1280px" src="https://user-images.githubusercontent.com/106814385/179900896-31419a49-8cf7-4426-9964-412c542266da.gif">
-  </h4>
-</div>
-
-##
    
 ### Tecnologias   
       
