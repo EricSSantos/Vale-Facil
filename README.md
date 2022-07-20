@@ -43,8 +43,11 @@
 <br>
 
 <h6>
-  <p>Vales (Vales Gerados)</p>
-  <p>Tela "principal" do sistema, que irá permitir o usuário consultar todos os vales que foram gerados.</p>
+  <p>
+    Vales (Vales Gerados)
+      <br>
+    Tela "principal" do sistema, que irá permitir o usuário consultar todos os vales que foram gerados.
+  </p>
 </h6>
 <div align="center">
   <h4>
