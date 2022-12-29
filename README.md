@@ -1,10 +1,6 @@
 ## Vale Fácil
 
-##
-
 ## 🚧 Projeto em Construção!
-
-##
 
 ### O que é Vale Fácil?
 
