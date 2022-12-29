@@ -30,14 +30,6 @@
    
 ##   
    
-### Funcionalidades
-
-###### Login - Algumas funções estarão disponíveis apenas para usuários administradores, sendo assim o sistema deverá validar o usuário e senha do cliente.
-
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/106814385/179900896-31419a49-8cf7-4426-9964-412c542266da.gif">
-</div>
-   
 ##
    
 ### Tecnologias   
