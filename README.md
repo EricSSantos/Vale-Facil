@@ -4,7 +4,7 @@
 
 ### O que é Vale Fácil?
 
-###### Vale Fácil é um software que permite o usuário manter o controle dos vales que são gerados no ERP Posto Fácil.
+###### Vale Fácil é um software desenvolvido para fins acadêmicos, que permite o usuário manter o controle dos vales que são gerados no ERP Posto Fácil.
 
 ### O que é Posto Fácil?
 
