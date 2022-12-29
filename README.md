@@ -10,9 +10,7 @@
 
 ###### Posto Fácil é um software de gestão voltado para o segmento de postos.
 
-###### O Posto Fácil possui um programa de fidelidade que permite realizar a emissão de vales (Vale Ponto, Brinde e Lavagem) com o intuito de atrair consumidores ao estabelecimento.
-
-###### O grande problema deste programa de fidelidade é que o Posto Fácil não permite realizar a gestão dos vales gerados, deixando o cliente totalmente dependente de guias não fiscais que são impressas no momento da emissão de um vale.
+###### O Posto Fácil possui um programa de fidelidade que permite realizar a emissão de vales (Vale Ponto, Brinde e Lavagem) com o intuito de atrair consumidores ao estabelecimento, mas o grande problema deste programa de fidelidade é que o Posto Fácil não permite realizar a gestão dos vales que estão sendo gerados
 
 - ###### [Posto Fácil, o software do posto inteligente](https://youtu.be/dIkYSVDhDxo)
 - ###### [Posto Fácil, Emissão de Vale Pontos](https://share.linx.com.br/pages/viewpage.action?pageId=27131284)
