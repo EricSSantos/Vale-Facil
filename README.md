@@ -19,6 +19,15 @@
    
 ##   
    
+### Requisitos   
+
+###### Requisitos necessário para utilizar o sistema:
+ 
+- ###### Posto Fácil - https://www.linx.com.br/posto-facil
+- ###### Servidor Firebird 2.5 ou 3.0
+
+##  
+   
 ### Tecnologias   
       
 ###### As seguintes tecnologias foram utilizadas na construção deste projeto:
@@ -26,12 +35,4 @@
 - ###### [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/)
 - ###### [Firebird](https://www.firebirdsql.org/en/documentation/)
 
-##   
-   
-### Requisitos   
-
-###### Requisitos necessário para utilizar o sistema:
- 
-- ###### Posto Fácil - https://www.linx.com.br/posto-facil/
-- ###### Servidor Firebird 2.5 ou 3.0
-      
+##
