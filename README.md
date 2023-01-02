@@ -25,5 +25,12 @@
     
 - ###### [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/)
 - ###### [Firebird](https://www.firebirdsql.org/en/documentation/)
-- ###### [SQlite](https://www.sqlite.org/)
+
+##   
+   
+### Requisitos   
+      
+    
+- ###### Posto Fácil(https://docs.microsoft.com/pt-br/dotnet/csharp/)
+- ###### Servidor Firebird 2.5 ou 3.0(https://www.firebirdsql.org/en/documentation/)
       
