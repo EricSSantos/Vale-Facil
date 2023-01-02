@@ -12,7 +12,7 @@
 
 - ###### [Posto Fácil, o software do posto inteligente](https://youtu.be/dIkYSVDhDxo)
 
-###### O Posto Fácil possui um programa de fidelidade que permite realizar a emissão de vales (Vale Ponto, Brinde e Lavagem) com o intuito de atrair consumidores ao estabelecimento, mas o grande problema deste programa de fidelidade é que o Posto Fácil não permite realizar o controle dos vales que estão sendo gerados
+###### O Posto Fácil possui um programa de fidelidade que permite realizar a emissão de vales (Vale Ponto, Brinde e Lavagem) com o intuito de atrair consumidores ao estabelecimento, mas o grande problema deste programa de fidelidade é que o Posto Fácil não permite realizar o controle dos vales que estão sendo gerados, gerando a necessicidade de utilizar o Vale Fácil.
 
 - ###### [Posto Fácil, Emissão de Vale Pontos](https://share.linx.com.br/pages/viewpage.action?pageId=27131284)
 
