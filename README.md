@@ -23,7 +23,7 @@
 
 ###### Requisitos necessário para utilizar o sistema:
  
-- ###### Possuir licença do Posto Fácil - https://www.linx.com.br/posto-facil
+- ###### Possuir licença do [Posto Fácil](https://www.linx.com.br/posto-facil)
 
 ##  
    
