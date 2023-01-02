@@ -24,7 +24,6 @@
 ###### Requisitos necessário para utilizar o sistema:
  
 - ###### Posto Fácil - https://www.linx.com.br/posto-facil
-- ###### Servidor Firebird 2.5 ou 3.0
 
 ##  
    
