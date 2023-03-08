@@ -8,14 +8,13 @@
 
 ### O que é Posto Fácil?
 
-###### Posto Fácil é um software de gestão voltado para o segmento de postos.
+###### O Posto Fácil é um software de gestão desenvolvido especificamente para o segmento de postos de combustíveis. Com o objetivo de tornar a gestão mais eficiente, o Posto Fácil apresenta diversas funcionalidades, incluindo um programa de fidelidade que permite a emissão de vales, como Vale Ponto, Brinde e Lavagem, a fim de atrair clientes para o estabelecimento.
 
 - ###### [Posto Fácil, o software do posto inteligente](https://youtu.be/dIkYSVDhDxo)
 
-###### O Posto Fácil possui um programa de fidelidade que permite realizar a emissão de vales (Vale Ponto, Brinde e Lavagem) com o intuito de atrair consumidores ao estabelecimento, mas o grande problema deste programa de fidelidade é que o Posto Fácil não permite realizar o controle dos vales que estão sendo gerados, gerando a necessicidade de utilizar o Vale Fácil.
+###### No entanto, é importante destacar que o programa de fidelidade do Posto Fácil não oferece controle completo dos vales gerados. Para solucionar essa questão, recomenda-se o uso do Vale Fácil, um software complementar que permite o gerenciamento preciso e organizado dos vales emitidos, proporcionando uma gestão mais eficiente e segura do negócio.
 
 - ###### [Posto Fácil, Emissão de Vale Pontos](https://share.linx.com.br/pages/viewpage.action?pageId=27131284)
-
    
 ##   
    
@@ -27,11 +26,11 @@
 
 ##  
    
-### Tecnologias   
+### Recursos   
       
-###### As seguintes tecnologias foram utilizadas na construção deste projeto:
-    
-- ###### [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/)
-- ###### [Firebird](https://www.firebirdsql.org/en/documentation/)
+###### Os seguintes recursos foram utilizados no desenvolvimento deste projeto:
 
+- ###### [Firebird](https://www.firebirdsql.org/en/documentation/)
+- ###### [C# - Windows Forms](https://docs.microsoft.com/pt-br/dotnet/csharp/)
+- ###### [Guna Framework - NET UI/UX Controls](https://gunaui.com/)
 ##
