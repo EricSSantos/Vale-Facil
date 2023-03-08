@@ -70,7 +70,6 @@
 <details> <summary> Relatórios </summary>
 
 - [ ] Extrato Geral
-      - [ ] Consulta do movimento geral, podendo ser gerado um PDF e/ou envio por email.
 
 </details>
 
