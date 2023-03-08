@@ -34,6 +34,13 @@
 
 ## Funcionalidades
 
+<details> <summary> Cadastros </summary>
+
+- [ ] Cadastro de Produtos
+- [ ] Cadastro de Usuários
+
+</details>
+
 <details> <summary> Controles </summary>
 
  - [x] Movimento Geral
@@ -41,18 +48,6 @@
 
 </details>
 
-<details> <summary> Relatórios </summary>
-
-- [ ] Extrato Geral
-
-</details>
-
-<details> <summary> Cadastros </summary>
-
-- [ ] Cadastro de Produtos
-- [ ] Cadastro de Usuários
-
-</details>
 
 <details> <summary> Definições </summary>
 
@@ -67,3 +62,14 @@
 - [ ] Logs
 
 </details>
+
+<details> <summary> Relatórios </summary>
+
+- [ ] Extrato Geral
+
+</details>
+
+
+
+
+
