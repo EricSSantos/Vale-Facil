@@ -62,6 +62,7 @@
 <details> <summary> Diversos </summary>
 
 - [x] Configurador
+      - [x] Aplicação independente, responsável por gerenciar a configuração dos bancos de dados. 
 - [ ] Instalador
 - [ ] Logs
 
