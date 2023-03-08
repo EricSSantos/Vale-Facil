@@ -43,9 +43,12 @@
 
 <details> <summary> Controles </summary>
 
- - [x] Movimento Geral : Consulta do movimento geral que foi gerado na/nas empresas.
- - [ ] Resgate de Pontos : Resgate de produtos com base nos pontos gerados.
- - [ ] Promo Tenda : Sorteio de clientes com base no CPF.
+ - [x] Movimento Geral
+      - [x] Consulta do movimento geral que foi gerado na/nas empresas.
+ - [ ] Resgate de Pontos
+      - [ ] Resgate de produtos com base nos pontos gerados.
+ - [ ] Promo Tenda
+      - [ ] Sorteio de clientes com base no CPF.
 
 </details>
 
@@ -66,7 +69,8 @@
 
 <details> <summary> Relatórios </summary>
 
-- [ ] Extrato Geral : Consulta do movimento geral, podendo ser gerado um PDF e/ou envio por email.
+- [ ] Extrato Geral
+      - [ ] Consulta do movimento geral, podendo ser gerado um PDF e/ou envio por email.
 
 </details>
 
